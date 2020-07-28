@@ -1,0 +1,7 @@
+{
+  "name": "gesturesIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
